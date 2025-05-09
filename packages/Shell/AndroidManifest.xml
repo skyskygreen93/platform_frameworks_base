@@ -22,7 +22,7 @@
         updatableSystem="false"
         android:sharedUserId="android.uid.shell"
         >
-
+/
         <!-- Standard permissions granted to the shell. -->
     <uses-permission android:name="android.permission.CAMERA_HEADLESS_SYSTEM_USER" />
     <uses-permission android:name="android.permission.MANAGE_HEALTH_PERMISSIONS" />
